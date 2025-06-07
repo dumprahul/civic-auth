@@ -8,3 +8,5 @@ export default function TitleBar() {
     </div>
   );
 };
+
+//install - npm install @civic/auth-web3 and npm install @civic/auth-web3-react
